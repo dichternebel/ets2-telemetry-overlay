@@ -1,3 +1,7 @@
+**ATTENTION: This is not working anymore!**  
+An alternative can be found here:  
+https://github.com/dichternebel/scs-telemetry-json-service
+
 # ETS2 telemetry overlay for OBS [![Licensed under the MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/dichternebel/ets2-telemetry-overlay/blob/main/LICENSE)
 Overlay for OBS visualizing ETS2 telemetry data.
 
